@@ -10,6 +10,7 @@ body {
     transform: translateY(-50%);
     width: 100%;
     text-align: center;
+    background: #14495e
   }
   .eye {
     width: 240px;
