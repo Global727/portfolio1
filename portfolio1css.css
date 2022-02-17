@@ -1,34 +1,61 @@
 h1 {
 font-size: 40;
+margin-left:auto;
+margin-right: auto;
 text-align: center;
-position: absolute;
-padding-top: 10%;
-padding-left: 40%;
 }
 
 h2 {
     font-size: 35px;
     color: red;
-    padding-top: 23%;
-    position: absolute;
-    padding-left: 5%;
+    
+    
+  
 }
 
 h3 {
     font-size: 35px;
     color: blue;
-    padding-top: 22.5%;
-    position: fixed;
-    padding-left: 20%;
+   
+    
+  
 
 }
 
 
 .bio {
-    position:fixed;
-    padding-top: 16.5%;
+    padding-top: 3%;
     font-size: 20px;
-    text-align: center;
-    padding-left: 18%;
+   
 
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#linkedposition{
+    position:absolute;
+    width: auto;
+}
+.contact-info{
+    padding-top: 15%;
+    
+}
+    
+.navbar-header {
+
+}
+.navbar-nav {
+
+}
+ .nav-item{
+
+ }
+.nav-link{
+
+}
+
+.navbar{
+    
 }
