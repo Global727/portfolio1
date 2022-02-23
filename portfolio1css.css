@@ -35,12 +35,12 @@ h3 {
     margin-right: auto;
     text-align: center;
 }
-#linkedposition{
-
-    width: auto;
+#linkedposition {
+;
+  
 }
 .contact-info{
-    padding-top: 5%%;
+    
     
 }
     
@@ -70,7 +70,7 @@ h3 {
 .wrapper {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
+    gap: 15px;
     grid-auto-rows: minmax(100px, auto);
   }
   .one {
@@ -83,7 +83,7 @@ h3 {
     
   }
   .three {
-    grid-column: 1;
+    grid-column: 1/2;
     grid-row: 2 / 5;
     padding-left: 3%;
   }
